@@ -1,0 +1,1 @@
+a python notebook that intakes greyscale png masks and transforms them into bitwise pure black and white masks
