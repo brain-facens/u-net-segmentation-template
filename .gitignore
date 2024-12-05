@@ -154,9 +154,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+## project
 skin-cancer_-ham10000-DatasetNinja/
 ham1000-segmentation-and-classification/
 models/
+models_old/
+data/
 *.tar
 *.zip
 .vscode/
@@ -168,5 +171,5 @@ models/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data/
-output/
+## bitwiser
+input/
